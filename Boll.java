@@ -1,4 +1,4 @@
-# faculdade
+# faculty
 code i learned in college
 package br.com.unicuritiba;
 
