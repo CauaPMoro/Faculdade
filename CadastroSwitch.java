@@ -1,4 +1,4 @@
-# faculty
+# faculdade
 code i learned in college
 import java.util.Scanner;
 
